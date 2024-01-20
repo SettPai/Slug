@@ -1,0 +1,13 @@
+.container{
+    max-width: 600px;
+    margin: auto;
+}
+
+h3{
+    color: red;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
